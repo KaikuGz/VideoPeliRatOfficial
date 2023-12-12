@@ -51,6 +51,11 @@ ExportedObj/
 *.pidb.meta
 *.pdb.meta
 *.mdb.meta
+Library/
+Temp/
+*.csproj
+*.sln
+
 
 # Unity3D generated file on crash reports
 sysinfo.txt
